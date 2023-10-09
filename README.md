@@ -11,14 +11,23 @@
 
 
 
+
 <img width="274" alt="image" src="https://github.com/MakaronynaZavtrak/Semenov_Salamakhin_edition/assets/114348027/b62565f2-d950-4b7a-8f07-6633193c1dcb">
-Выведем на экран номер конкретного билета конкретного билета и по его значению соотвествующий заказ:
+Выведем на экран номер конкретного билета и по его значению соотвествующий заказ:
+
+
+
+
 
 
 
 
 <img width="445" alt="image" src="https://github.com/MakaronynaZavtrak/Semenov_Salamakhin_edition/assets/114348027/a2f32777-8944-42d4-8c7f-4c8251ef9930">
 Ожидаемый вывод:
+
+
+
+
 
 
 
